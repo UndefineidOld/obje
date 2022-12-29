@@ -1,10 +1,11 @@
 <theme>
-	<name>whiteSnow/name>
-	<skinType>1</skinType>
-	<description>Le giga theme</description>
-	<previewUri>darkStonePreview.JPG</previewUri>
-	<author>Undefineid</author>
-	<dofusVersion>2.66</dofusVersion>
-	<creationDate>21/12/2017</creationDate>
-	<modificationDate>20/12/2022</modificationDate>
+    <name>whiteSnow</name>
+    <skinType>1</skinType>
+    <description>Joyeux Nowel !</description>
+    <previewUri>whiteSnowPreview.jpg</previewUri>
+    <author>tchoupi988</author>
+    <version>1.8</version>
+    <dofusVersion>2.66</dofusVersion> 
+    <creationDate>21/12/2017</creationDate> 
+    <modificationDate>20/12/2022</modificationDate> 
 </theme>
