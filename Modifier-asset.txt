@@ -1,0 +1,33 @@
+2414 Stat
+30 shop
+1022 sort
+1063  ami 
+1097 compagnon
+1101 sort 
+1105 alignement
+1185 koli
+1263 succès
+1468 quetes
+1495 magasin
+1800 succès
+1984 idole
+2369 ensemble 
+2408 koli
+2620 calendrier
+2661 annuaire
+2871 drago
+2898 metier
+2986 groupe 
+3017 guilde
+3073 bestiaire
+3172 inventaire
+
+
+
+
+
+
+-----
+1672 equipement
+2676 (encore koli?)
+3036 (re re koli?)

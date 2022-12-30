@@ -41,27 +41,27 @@ p {
 .bonus {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #52AE3F;
+	color: #6db213;
 }
 
 .bonusvalue {
 	font-family: Tahoma;
 	font-size: 17;
 	font-weight: bold;
-	color: #52AE3F;
+	color: #8bf402;
 }
 
 .malus {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #CB685E;
+	color: #d0483a;
 }
 
 .malusvalue {
 	font-family: Tahoma;
 	font-size: 17;
 	font-weight: bold;
-	color: #CB685E;
+	color: #d0483a;
 }
 
 .neutral {
@@ -102,20 +102,20 @@ p {
 .exotic {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #658FC4;
+	color: #4683ce;
 }
 
 .exoticvalue {
 	font-family: Tahoma;
 	font-size: 17;
 	font-weight: bold;
-	color: #658FC4;
+	color: #68b6ff;
 }
 
 .theoretical {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #969695 ;
+	color: #c7c7c5 ;
 }
 
 .requirement {
@@ -146,14 +146,14 @@ p {
 .description {
 	font-family: Tahoma;
 	font-size: 17;
-	color: #E6893D;
+	color: #e6893d;
 }
 
 .quote {
 	font-family: Tahoma;
 	font-size: 17;
 	font-style: italic;
-	color: #9D9D9C;
+	color: #e6893d;
 }
 
 .headerp {
@@ -268,11 +268,4 @@ spellZone {
 	margin-left: 22;
 	margin-right: 75;
 	text-align: left;
-}
-
-.valueLineWithIcon {
-	font-family: Roboto;
-	font-size: 15;
-	color: #c7c7c5;
-	margin-right: 126;
 }

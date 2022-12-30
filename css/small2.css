@@ -19,16 +19,6 @@ right {
 	font-weight: normal;
 	text-align: right;
 }
-
-rightpadding {
-	font-family: Roboto;
-	font-size: 14;
-	color: #c7c7c5;
-	font-weight: normal;
-	text-align: right;
-	padding-right: 5px;
-}
-
 center {
 	font-family: Roboto;
 	font-size: 14;
@@ -79,28 +69,28 @@ boldcenter {
 disabled {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #848480;
+	color: #484846;
 	text-align: justify;
 	font-weight: normal;
 }
 disabledcenter {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #848480;
+	color: #484846;
 	text-align: center;
 	font-weight: normal;
 }
 disabledright {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #848480;
+	color: #484846;
 	text-align: right;
 	font-weight: normal;
 }
 bolddisabled {
 	font-family: Roboto;
 	font-size: 14px;
-	color: #848480;
+	color: #484846;
 	text-align: justify;
 	font-weight: bold;
 }
@@ -261,20 +251,20 @@ blueright_blue{
 green {
 	font-family: Roboto;
 	font-size: 14;
-	color: #deff00;
+	color: #68ddff;
 	text-align: justify;
 }
 greenleft {
 	font-family: Roboto;
 	font-size: 14;
-	color: #deff00;
+	color: #68ddff;
 	text-align: left;
 }
 
 greenleftlight {
 	font-family: Roboto;
 	font-size: 14;
-	color: #deff00;
+	color: #68ddff;
 	font-weight: lighter;
 	text-align: left;
 }
@@ -282,14 +272,14 @@ greenleftlight {
 greenright {
 	font-family: Roboto;
 	font-size: 14;
-	color: #deff00;
+	color: #68ddff;
 	text-align: right;
 }
 
 greencenter {
 	font-family: Roboto;
 	font-size: 14;
-	color: #deff00;
+	color: #68ddff;
 	text-align: center;
 	text-decoration: none;
 }
@@ -297,7 +287,7 @@ greencenter {
 greenunderlinecenter {
 	font-family: Roboto;
 	font-size: 14;
-	color: #deff00;
+	color: #68ddff;
 	text-align: center;
 	text-decoration: underline;
 }
@@ -305,7 +295,7 @@ greenunderlinecenter {
 truegreen {
 	font-family: Roboto;
 	font-size: 14;
-	color: #7fc717;
+	color: #68ddff;
 	text-align: justify;
 }
 
@@ -578,16 +568,4 @@ smalldarkboldcenter_darkboldcenter {
 	color: #3c381b;
 	font-weight: bold;
 	text-align: center;
-}
-
-bonus {
-	font-family: Roboto;
-	font-size: 14px;
-	color: #52AE3F;
-}
-
-malus {
-	font-family: Roboto;
-	font-size: 14px;
-	color: #CB685E;
 }
